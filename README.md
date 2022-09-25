@@ -3,7 +3,7 @@
 
 To perform Data preprocessing in a data set downloaded from Kaggle
 
-##REQUIPMENTS REQUIRED:
+## REQUIPMENTS REQUIRED:
 Hardware – PCs
 Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
 
@@ -67,7 +67,25 @@ X_train.shape
 ~~~
 
 ## OUTPUT:
-/ Show the result/
+### Dataset
+![](https://github.com/RanjithD18/Ex.No.1---Data-Preprocessing/blob/main/190869996-787c5a4e-5e5a-41c3-b9c5-0b76405234ab.png)
+### Checking for Null Values
+![](https://github.com/RanjithD18/Ex.No.1---Data-Preprocessing/blob/main/190870006-5b12c82c-6079-4a75-af1e-38333db3e13e.png)
+### Checking for duplicate values
+![](https://github.com/RanjithD18/Ex.No.1---Data-Preprocessing/blob/main/190870009-febb6fff-a5ef-41af-a3db-212c0e66ed72.png)
+### Describing Data
+![](https://github.com/RanjithD18/Ex.No.1---Data-Preprocessing/blob/main/190870014-203bf617-4f81-4692-88da-600f9b80bbe8.png)
+![](https://github.com/RanjithD18/Ex.No.1---Data-Preprocessing/blob/main/190870018-a7af5ec4-62ae-481d-b558-aa6f5d58fb42.png)
+### X - Values
+![](https://github.com/RanjithD18/Ex.No.1---Data-Preprocessing/blob/main/190870021-3fc22ec7-6042-4622-9d2e-dce01a155810.png)
+### Y - Value
+![](https://github.com/RanjithD18/Ex.No.1---Data-Preprocessing/blob/main/190869973-caa550fd-77c0-40c6-88fc-c75869092077.png)
+### X_train values and X_train Size
+![](https://github.com/RanjithD18/Ex.No.1---Data-Preprocessing/blob/main/190870096-2fc2c934-2b28-4a10-8d85-b2fe38eb1c78.png)
+### X_test values and X_test Size
+![](https://github.com/RanjithD18/Ex.No.1---Data-Preprocessing/blob/main/190870101-e5ea5da8-26a7-41cd-aa38-2fb7036ff0b5.png)
+### X_train shape
+![](https://github.com/RanjithD18/Ex.No.1---Data-Preprocessing/blob/main/190869983-9a793ceb-f01b-4c0d-927c-4922a386c128.png)
 
 ## RESULT:
 Data preprocessing is performed in a data set downloaded from Kaggle
